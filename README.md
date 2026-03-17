@@ -37,25 +37,6 @@ The system uses YOLOv8 for object detection, ByteTrack for tracking and a custom
 - Camera header (camera ID, timestamp, FPS)
 
 
-## Pipeline
-
-The processing pipeline works as follows:
-
-Video input
-↓
-YOLOv8 person detection
-↓
-ByteTrack object tracking
-↓
-Line crossing logic
-↓
-Entry counting
-↓
-Video analytics overlay
-↓
-Output video
-
-
 
 ## Example Output
 
