@@ -6,18 +6,11 @@ The system uses YOLOv8 for object detection, ByteTrack for tracking and a custom
 
 
 
-
-## Process Pipeline
-
-![System Pipeline](screenshots/pipeline.png)
-
-
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-orange)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-
 
 
 ## 🎬 Demo
@@ -26,7 +19,10 @@ The system uses YOLOv8 for object detection, ByteTrack for tracking and a custom
   <img src="screenshots/demo.gif" width="700">
 </p>
 
-## ![Demo](screenshots/example.png)
+
+## Process Pipeline
+
+![System Pipeline](screenshots/pipeline.png)
 
 
 ## 🚀 Features
@@ -119,6 +115,13 @@ The processed video with analytics overlay will be saved to:
 output/counting_video.mp4
 
 The YOLO model will be automatically downloaded by Ultralytics on first run.
+
+    ⚠️ Important:
+    The counting line is currently fixed at the vertical center of the frame. For correct counting, the input video should be aligned, so that people cross near the middle of the frame. 
+
+    Alternatively, you can manually adjust the line position in the script:   
+    
+        line_y = int(height * 0.6)  # example
 
 
 ## Technologies Used
