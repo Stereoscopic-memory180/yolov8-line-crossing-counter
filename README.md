@@ -5,8 +5,6 @@ A simple computer vision project that detects, tracks and counts people crossing
 The system uses YOLOv8 for object detection, ByteTrack for tracking and a custom line-crossing logic to count entries.
 
 
-![Demo](screenshots/example.png)
-
 
 
 ## Process Pipeline
@@ -22,7 +20,16 @@ The system uses YOLOv8 for object detection, ByteTrack for tracking and a custom
 
 
 
-## Features
+## 🎬 Demo
+
+<p align="center">
+  <img src="screenshots/demo.gif" width="700">
+</p>
+
+## ![Demo](screenshots/example.png)
+
+
+## 🚀 Features
 
 - Person detection using YOLOv8
 - Multi-object tracking with ByteTrack
@@ -101,7 +108,7 @@ cd yolov8-line-crossing-counter
 pip install -r requirements.txt
 
 
-## Usage
+## ▶️ Usage
 
 Place your input video inside the video folder and run the script:
 
